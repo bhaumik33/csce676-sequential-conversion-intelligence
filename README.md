@@ -2,7 +2,7 @@
 
 [YouTube link — https://youtu.be/UotgMGpr-zM]
 
-👉 Start here: `(https://github.com/bhaumik33/csce676-sequential-conversion-intelligence/blob/main/main_notebook.ipynb)`
+👉 Start here: `[main_notebook.ipynb](main_notebook.ipynb)`
 
 **Author:** Bhaumik Patel · UIN 737002364 · CSCE 676 · Spring 2026 · Texas A&M University
 
