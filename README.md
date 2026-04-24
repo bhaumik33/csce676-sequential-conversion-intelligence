@@ -1,6 +1,6 @@
 # Beyond Baskets: Sequence-Aware Conversion Intelligence in OTTO E-Commerce Sessions
 
-[YouTube link — TODO]
+[YouTube link — https://youtu.be/UotgMGpr-zM]
 
 👉 Start here: `main_notebook.ipynb`
 
