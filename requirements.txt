@@ -1,0 +1,7 @@
+numpy>=1.26.0
+pandas>=2.2.0
+matplotlib>=3.8.0
+scipy>=1.11.0
+mlxtend>=0.23.0
+prefixspan>=0.5.2
+ipython>=8.18.0
