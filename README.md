@@ -27,7 +27,7 @@ The main deliverable for this repository is `main_notebook.ipynb`.
 
 ## 4. Project Video
 
-- Video walkthrough: [[YouTube link — TODO](https://youtu.be/UotgMGpr-zM)]
+- Video walkthrough: [[Video Walkthrough](https://youtu.be/UotgMGpr-zM)]
 
 ## 5. Data
 
