@@ -10,6 +10,17 @@
 
 This project compares basket-based co-occurrence methods with sequence-aware pattern mining on the OTTO e-commerce dataset. Specifically, it studies how **FP-Growth** and **association rules** differ from **PrefixSpan** when the same shopping sessions are treated either as unordered baskets or as ordered behavioral sequences. The central finding is that preserving session order reveals high-intent behavioral structure that basket-based views miss, especially around directional item relationships and purchase-funnel behavior.
 
+## Problem Statement
+
+E-commerce platforms generate massive volumes of clickstream data — clicks, cart additions, 
+and purchases — but most lightweight analytics treat each session as an unordered basket of 
+items. This discards the temporal progression that distinguishes casual browsing from 
+purchase-intent behavior. If a user clicks an item, adds it to their cart, and then places 
+an order, that sequence encodes a conversion funnel that a basket view reduces to mere 
+co-occurrence. This project investigates whether preserving session order reveals 
+high-intent behavioral structure that basket-based frequent itemsets and association rules 
+structurally cannot capture.
+
 ## 2. Main Notebook
 
 The main deliverable for this repository is `main_notebook.ipynb`.
